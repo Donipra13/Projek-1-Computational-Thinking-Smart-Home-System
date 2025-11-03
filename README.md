@@ -7,3 +7,6 @@ Subsistem ini berperan sebagai sistem keamanan rumah yang menggunakan sandi digi
  
 Smart Thermostat System :
 Subsistem ini berfungsi untuk mengatur suhu ruangan secara otomatis. Ketika suhu lingkungan melebihi batas yang telah ditentukan, sistem akan menyalakan pendingin udara (AC) secara otomatis, dan mematikannya kembali ketika suhu sudah kembali stabil. Fitur ini menggambarkan prinsip otomatisasi berdasarkan kondisi lingkungan yang berubah.
+
+
+Untuk hasil final source code ada di file dengan nama "Final File SMARTHOME SYSTEM"
